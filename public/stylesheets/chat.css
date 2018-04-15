@@ -7,6 +7,9 @@ body {
 }
 
 #message-pane {
+    background-image: url("https://cdn.vox-cdn.com/thumbor/AdCOyB8-TEMDs_6yN3OS0Odv3IE=/6x0:615x457/1400x1050/cdn.vox-cdn.com/uploads/chorus_image/image/54219871/giphy4.0.gif");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     background-color: #00a300;
 }
 
